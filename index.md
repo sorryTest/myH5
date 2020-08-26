@@ -1,4 +1,4 @@
-## Welcome to GitHub Pagesa   啊 我终于有自己的网页啦
+##  FF  GMN    晚上斗地主吗
 
 You can use the [editor on GitHub](https://github.com/sorryTest/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
