@@ -1,4 +1,4 @@
-##   等雨停 ，  再去！
+##   待会 等雨停了 ，  再去！
 
 You can use the [editor on GitHub](https://github.com/sorryTest/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
