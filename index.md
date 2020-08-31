@@ -1,6 +1,6 @@
-##  PP
+##  ping
 我们曾认为：夜半归家粥可温，流年为君立黄昏。最后不过是：无人与我立黄昏，无人问我粥可温。我们曾认为：爱隔山海，山海不可平。最后才明白：山海皆可平，难平是人心。我们曾认为： 有美人兮，见之不忘，一日不见
-### HH
+### shi
 喜欢骨子里的低沉，也喜欢一身的白衣烟火，喜欢那清风修竹，也喜欢日暮荒野，做不到凤歌笑孔丘，写不出“我本楚狂人”
 ```markdown
 Syntax highlighted code block
@@ -22,10 +22,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sorryTest/myH5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### you
+我家刚买了一个钢化玻璃的茶几，我想知道这个茶几到底有多结实。我先让我家狗踩上去，没事。我自己再踩上去，还没事。最后我抱着我家狗从一米高的地方跳到茶几上。咣当，茶几碎了，我的脚扭了，脸被狗爪子挠了。我勉强站起来，忍着脸上的疼，恨恨的看着满地碎玻璃，心想:哼，果然不结实。可怕之处在哪里?当我决定考验这个茶几的时候，这个茶几注定要碎。因为只要这个茶几不碎，我就会一直加重量。当决定要考察-个人的人性时，往往会不断增加难度一-直考下去。直到通不过考验而离开
+### ff
+当识人，识人不必探尽，探尽则多疑；当知人，知人不必言尽，言尽则无友；当责人，责人不必苛尽，苛尽则众远；当敬人，敬人不必卑尽，卑尽则少骨；当让人，让人不必退尽，退尽则路寡。
