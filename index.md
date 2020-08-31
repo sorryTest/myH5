@@ -1,13 +1,7 @@
-##   待会 等雨停了 ，  再去！
-
-You can use the [editor on GitHub](https://github.com/sorryTest/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+##  PP
+我们曾认为：夜半归家粥可温，流年为君立黄昏。最后不过是：无人与我立黄昏，无人问我粥可温。我们曾认为：爱隔山海，山海不可平。最后才明白：山海皆可平，难平是人心。我们曾认为： 有美人兮，见之不忘，一日不见
+### HH
+喜欢骨子里的低沉，也喜欢一身的白衣烟火，喜欢那清风修竹，也喜欢日暮荒野，做不到凤歌笑孔丘，写不出“我本楚狂人”
 ```markdown
 Syntax highlighted code block
 
